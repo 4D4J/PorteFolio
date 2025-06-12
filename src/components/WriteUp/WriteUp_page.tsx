@@ -70,11 +70,6 @@ const WriteUp_page = () => {
                 content: rainbowrocketMd
               }
             ]
-          },
-          {
-            name: 'Osint_wu',
-            type: 'folder' as const,
-            children: []
           }
         ]
       }
